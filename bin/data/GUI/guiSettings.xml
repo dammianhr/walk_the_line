@@ -1,0 +1,30 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>Animation Speed</Name>
+    <Value>1.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Tilt</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>nearThreshold</Name>
+    <Value>255.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>farThreshold</Name>
+    <Value>243.046875000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>min Blob</Name>
+    <Value>230.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>max Blob</Name>
+    <Value>66400.000000000</Value>
+</Widget>
